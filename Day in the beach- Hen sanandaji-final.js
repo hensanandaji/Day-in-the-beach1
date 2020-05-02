@@ -483,10 +483,10 @@ p.nominalBounds = new cjs.Rectangle(-276,-201,552,402);
 
 	// Layer_8
 	this.instance = new lib.shark1();
-	this.instance.setTransform(-52.3,282.35,0.8495,1,0,0,180,294.9,90);
+	this.instance.setTransform(-52.2,282.35,0.8495,1,0,0,180,294.7,90);
 	this.instance._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(168).to({_off:false},0).wait(1).to({regX:249.9,x:3.75},0).wait(1).to({x:21.6},0).wait(1).to({x:39.45},0).wait(1).to({x:57.35},0).wait(1).to({x:75.2},0).wait(1).to({x:93.05},0).wait(1).to({x:110.9},0).wait(1).to({x:128.75},0).wait(1).to({x:146.65},0).wait(1).to({x:164.5},0).wait(1).to({x:182.35},0).wait(1).to({x:200.2},0).wait(1).to({x:218.1},0).wait(1).to({x:235.95},0).wait(1).to({x:253.8},0).wait(1).to({x:271.65},0).wait(1).to({x:289.5},0).wait(1).to({x:307.4},0).wait(1).to({x:325.25},0).wait(1).to({x:343.1},0).wait(1).to({x:360.95},0).wait(1).to({x:378.85},0).wait(1).to({x:396.7},0).wait(1).to({x:414.55},0).wait(1).to({x:432.4},0).wait(1).to({x:450.3},0).wait(1).to({x:468.15},0).wait(1).to({x:486},0).wait(1).to({x:503.85},0).wait(1).to({x:521.7},0).wait(1).to({x:539.6},0).wait(1).to({x:557.45},0).wait(1).to({x:575.3},0).wait(1).to({x:593.15},0).wait(1).to({x:611.05},0).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(168).to({_off:false},0).wait(1).to({regX:249.9,x:3.7},0).wait(1).to({x:21.55},0).wait(1).to({x:39.4},0).wait(1).to({x:57.25},0).wait(1).to({x:75.15},0).wait(1).to({x:93},0).wait(1).to({x:110.85},0).wait(1).to({x:128.7},0).wait(1).to({x:146.55},0).wait(1).to({x:164.45},0).wait(1).to({x:182.3},0).wait(1).to({x:200.15},0).wait(1).to({x:218},0).wait(1).to({x:235.85},0).wait(1).to({x:253.75},0).wait(1).to({x:271.6},0).wait(1).to({x:289.45},0).wait(1).to({x:307.3},0).wait(1).to({x:325.15},0).wait(1).to({x:343.05},0).wait(1).to({x:360.9},0).wait(1).to({x:378.75},0).wait(1).to({x:396.6},0).wait(1).to({x:414.45},0).wait(1).to({x:432.35},0).wait(1).to({x:450.2},0).wait(1).to({x:468.05},0).wait(1).to({x:485.9},0).wait(1).to({x:503.75},0).wait(1).to({x:521.65},0).wait(1).to({x:539.5},0).wait(1).to({x:557.35},0).wait(1).to({x:575.2},0).wait(1).to({x:593.05},0).wait(1).to({x:610.95},0).wait(1));
 
 	this._renderFirstFrame();
 
@@ -774,7 +774,7 @@ p.nominalBounds = new cjs.Rectangle(-43.2,-38.7,86.80000000000001,79);
 	// Layer_2_obj_
 	this.Layer_2 = new lib.Scene_1_Layer_2();
 	this.Layer_2.depth = 0;
-	this.Layer_2.isAttachedToCamera = 0
+	this.Layer_2.isAttachedToCamera = 1
 	this.Layer_2.isAttachedToMask = 0
 	this.Layer_2.layerDepth = 0
 	this.Layer_2.layerIndex = 1
@@ -785,7 +785,7 @@ p.nominalBounds = new cjs.Rectangle(-43.2,-38.7,86.80000000000001,79);
 	// Layer_4_obj_
 	this.Layer_4 = new lib.Scene_1_Layer_4();
 	this.Layer_4.depth = 0;
-	this.Layer_4.isAttachedToCamera = 0
+	this.Layer_4.isAttachedToCamera = 1
 	this.Layer_4.isAttachedToMask = 0
 	this.Layer_4.layerDepth = 0
 	this.Layer_4.layerIndex = 2
@@ -796,7 +796,7 @@ p.nominalBounds = new cjs.Rectangle(-43.2,-38.7,86.80000000000001,79);
 	// Layer_7_obj_
 	this.Layer_7 = new lib.Scene_1_Layer_7();
 	this.Layer_7.depth = 0;
-	this.Layer_7.isAttachedToCamera = 0
+	this.Layer_7.isAttachedToCamera = 1
 	this.Layer_7.isAttachedToMask = 0
 	this.Layer_7.layerDepth = 0
 	this.Layer_7.layerIndex = 3
@@ -807,7 +807,7 @@ p.nominalBounds = new cjs.Rectangle(-43.2,-38.7,86.80000000000001,79);
 	// Layer_9_obj_
 	this.Layer_9 = new lib.Scene_1_Layer_9();
 	this.Layer_9.depth = 0;
-	this.Layer_9.isAttachedToCamera = 0
+	this.Layer_9.isAttachedToCamera = 1
 	this.Layer_9.isAttachedToMask = 0
 	this.Layer_9.layerDepth = 0
 	this.Layer_9.layerIndex = 4
@@ -818,7 +818,7 @@ p.nominalBounds = new cjs.Rectangle(-43.2,-38.7,86.80000000000001,79);
 	// Layer_8_obj_
 	this.Layer_8 = new lib.Scene_1_Layer_8();
 	this.Layer_8.depth = 0;
-	this.Layer_8.isAttachedToCamera = 0
+	this.Layer_8.isAttachedToCamera = 1
 	this.Layer_8.isAttachedToMask = 0
 	this.Layer_8.layerDepth = 0
 	this.Layer_8.layerIndex = 5
@@ -829,7 +829,7 @@ p.nominalBounds = new cjs.Rectangle(-43.2,-38.7,86.80000000000001,79);
 	// Layer_3_obj_
 	this.Layer_3 = new lib.Scene_1_Layer_3();
 	this.Layer_3.depth = 0;
-	this.Layer_3.isAttachedToCamera = 0
+	this.Layer_3.isAttachedToCamera = 1
 	this.Layer_3.isAttachedToMask = 0
 	this.Layer_3.layerDepth = 0
 	this.Layer_3.layerIndex = 6
@@ -841,7 +841,7 @@ p.nominalBounds = new cjs.Rectangle(-43.2,-38.7,86.80000000000001,79);
 	this.Layer_5 = new lib.Scene_1_Layer_5();
 	this.Layer_5.setTransform(493.9,202.8,1,1,0,0,0,493.9,202.8);
 	this.Layer_5.depth = 0;
-	this.Layer_5.isAttachedToCamera = 0
+	this.Layer_5.isAttachedToCamera = 1
 	this.Layer_5.isAttachedToMask = 0
 	this.Layer_5.layerDepth = 0
 	this.Layer_5.layerIndex = 7
